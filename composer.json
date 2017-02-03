@@ -1,0 +1,21 @@
+{
+    "name": "dann95/l5-disposable-emails-validation",
+    "description": "Validation of disposable e-mails for Laravel 5",
+    "type": "package",
+    "require": {
+        "illuminate/support": "5.0.*|5.1.*|5.2.*|5.3.*|5.4.*|5.5.*"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Daniel Rubin",
+            "email": "danielrubin95@hotmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Dann95\\L5DisposableEmails\\": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
