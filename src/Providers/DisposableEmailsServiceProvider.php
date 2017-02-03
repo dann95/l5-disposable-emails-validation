@@ -5,7 +5,7 @@ namespace Dann95\L5DisposableEmails\Providers;
 use Illuminate\Support\ServiceProvider;
 use Illuminate\Support\Facades\Validator;
 
-class DisposableEmailsServiceProvider
+class DisposableEmailsServiceProvider extends ServiceProvider
 {
     public function boot()
     {
