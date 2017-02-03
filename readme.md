@@ -3,7 +3,7 @@
 
 ## How to install?
 ```bash
-composer require thusk/l5-disposable-emails-validation
+composer require dann95/l5-disposable-emails-validation
 ```
 ## How to use?
 #### Add service provider in config/app.php
